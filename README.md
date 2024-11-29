@@ -15,7 +15,7 @@ KeyMap Editor is a Python-based tool designed to help generate and edit keymaps 
 
 ## Prerequisites
 
-- **Python 3.x**
+- **Python 3.9.x**
 - Required Python libraries:
   - `tkinter` (included with most Python installations)
   - `Pillow` (for handling images)
